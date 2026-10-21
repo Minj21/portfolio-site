@@ -22,17 +22,26 @@ Open index.html in a web browser, or open this folder in VS Code and use Live Se
 
 - index.html: website content and links
 - style.css: dark theme, cards, and responsive layouts
+- aminJTCV.pdf: downloadable public CV with clickable portfolio link
 - .nojekyll: serves this plain HTML/CSS website without Jekyll processing
 
 ## Contact and CV setup
 
 GitHub: https://github.com/Minj21
 
-Email, LinkedIn, and CV download await the owner's confirmed details. Add the PDF beside index.html and use its exact filename in the download link. Keep local asset links relative so they work on GitHub Pages.
+Email: Aminjtijani@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/amin-jimoh-873683199/
+
+Downloadable CV: aminJTCV.pdf, stored beside index.html. This public copy includes the portfolio URL and uses References available on request. Keep local asset links relative so they work on GitHub Pages.
 
 ## GitHub Pages deployment
 
-Suggested repository name: portfolio-site (availability not yet checked).
+Repository: https://github.com/Minj21/portfolio-site
+
+Live portfolio: https://minj21.github.io/portfolio-site/
+
+Pages is configured to publish from main and /(root). The following steps describe this setup:
 
 1. Create a public repository under Minj21.
 2. Upload the contents of this folder to the repository root, with index.html at the top level.
@@ -40,7 +49,7 @@ Suggested repository name: portfolio-site (availability not yet checked).
 4. Wait for the Pages deployment to succeed and use the URL GitHub displays.
 5. Test navigation, contact links, mobile layout, and the PDF download on that live URL.
 
-With a repository named portfolio-site, the expected URL is https://minj21.github.io/portfolio-site/. This is an expected address, not a confirmed live deployment.
+The portfolio is published at https://minj21.github.io/portfolio-site/. Updates to main trigger a new deployment.
 
 The local folder name (Portfolio site) is independent of the repository name (portfolio-site). The published URL is generated from the GitHub username and repository name.
 
